@@ -1,22 +1,18 @@
-CareerLaunch is a student-focused career guidance website designed to help students explore different technology career paths, understand the importance of internships, and follow structured learning roadmaps to achieve their career goals.
+# CareerLaunch
 
-Features:
-Responsive navigation bar with hover effects
-Fixed navigation menu visible during scrolling
-Interactive navbar style change on scroll
-Career paths section with required skills
-Internship guidance and benefits
-Learning roadmaps for various technology careers
-Contact section
-Responsive layout using Bootstrap
+CareerLaunch is a simple responsive website that helps students explore career paths, internships, and technology roadmaps.
 
-Career Paths Included:
-Frontend Developer
-Software Engineer
-Data Analyst
-Data Scientist
-Cybersecurity Analyst
-AI & Machine Learning Engineer
-Cloud Engineer
-DevOps Engineer
-Technologies Used
+### Built With
+
+* HTML
+* CSS
+* Bootstrap
+
+### Features
+
+* Responsive Design
+* Career Paths
+* Internship Section
+* Roadmaps
+* Contact Page
+
