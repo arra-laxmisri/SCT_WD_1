@@ -19,7 +19,7 @@ body{
 .card{
     background-color: whitesmoke;
     padding: 10px;
-    height: 325px;
+    height: auto;
     margin: 10px;
     font-size: 20px;
 }
